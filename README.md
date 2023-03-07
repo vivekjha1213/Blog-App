@@ -22,7 +22,7 @@ Step :2
 npm install 
 
 Step:3
-All required Module Install like npm install dotenv,nodemon end etc..
+All required Module install like npm install express,dotenv,nodemon end etc..
 
 
 Step: 4
